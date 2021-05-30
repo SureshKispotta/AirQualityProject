@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QualityAnalyticPage</string>
+    <string name="city_text">City</string>
+    <string name="current_aqi_text">Current Aqi</string>
+    <string name="last_update_text">Last Update</string>
+    <string name="update_time_hint">Update time in seconds, 30 sec difference</string>
+</resources>
